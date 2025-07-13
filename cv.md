@@ -1,17 +1,17 @@
 # Levonyan Artur
 ![photo](/corgi1.jpg)
-***
+---
 # Contact info
 * Telegram: @xstdth
 * Mail: artxstdd@gmail.com
 * Github: [nqqq1](https://github.com/nqqq1)
 * Discord nickname: nqqq1
-***
+---
 # About me
 I like programming. I would like to become a full-stack developer. Web technologies seem very interesting to me, so I would like to develop in this direction.
 
 I study at the university and work.
-***
+---
 # Skills
 - HTML/CSS
 - Git
@@ -19,7 +19,7 @@ I study at the university and work.
 - SQL
 - VSCode
 - Linux
-***
+---
 # Code example
 ```
 def to_csv_text(array):
@@ -38,9 +38,12 @@ def to_csv_text(array):
             arr_str += '\n'
     return arr_str
 ```
+---
 # Education
 * ITMO University, Master's degree, Cybersecurity
+---
 # Experience
 My only experience in IT is system administration
+---
 # English
 Upper-intermediate(**B2**)
