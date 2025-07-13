@@ -1,5 +1,5 @@
 # Levonyan Artur
-![photo](/rsschool-cv/corgi1.jpg)
+![photo](/corgi1.jpg)
 ***
 # Contact info
 * Telegram: @xstdth
