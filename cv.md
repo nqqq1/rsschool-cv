@@ -19,3 +19,28 @@ I study at the university and work.
 - SQL
 - VSCode
 - Linux
+***
+# Code example
+```
+def to_csv_text(array):
+    arr_str = '' 
+    count_arr = 0
+    for i in array:
+        count_arr +=1
+        count_i = 0
+        for j in i:
+            count_i += 1
+            if count_i != len(i):
+                arr_str += str(j) + ','
+            else: 
+                arr_str += str(j)
+        if count_arr != len(array):
+            arr_str += '\n'
+    return arr_str
+```
+# Education
+* ITMO University, Master's degree, Cybersecurity
+# Experience
+My only experience in IT is system administration
+# English
+Upper-intermediate(**B2**)
